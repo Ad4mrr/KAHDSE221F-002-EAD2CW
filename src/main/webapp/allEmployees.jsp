@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <script src="../resources/index.js"></script>
 <title>Manage Employees</title>
-<link href="style.css" />
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
